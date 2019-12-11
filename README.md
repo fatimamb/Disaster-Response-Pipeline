@@ -35,6 +35,7 @@ The data has provided by Figure Eight which is content tweets and text messages 
 - sqlalchemy 
 - pickle
 - re
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
