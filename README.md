@@ -7,7 +7,10 @@ This project is a part of Udacity Data Scientist Nanodegree Program. In this pro
 ### Data:
 
 There are two dataset:
+
+
 1- messages 2- categories. 
+
 The data has provided by Figure Eight which is content tweets and text messages from real-life disasters, the disaster messages come from different communications, so I have to combine these two datasets and re-labels them.
 
 ### Featureset Exploration:
