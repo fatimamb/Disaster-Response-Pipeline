@@ -23,6 +23,15 @@ The data has provided by Figure Eight which is content tweets and text messages 
 
 ### Software and Libraries:
 
+- Python
+- NumPy
+- pandas
+- scikit-learn 
+- nltk
+- plotly
+- sqlalchemy 
+- pickle
+- re
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -34,7 +43,15 @@ The data has provided by Figure Eight which is content tweets and text messages 
 2. Run the following command in the  app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. open another Terminal Window and Type:
+
+   `env|grep WORK`
+   
+   Then in a new web browser window, type in the following:
+   
+   `https://SPACEID-3001.SPACEDOMAIN
+`
+
 
 
 
